@@ -1,3 +1,6 @@
+# glowing-octo-spoon
+A sandbox app for playing around with the react starter kit
+
 ## React Starter Kit — "isomorphic" web app boilerplate
 
 [![Support us on Bountysource](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/banner.png)](https://salt.bountysource.com/teams/react-starter-kit)<br>
