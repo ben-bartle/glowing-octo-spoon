@@ -1,2 +1,2 @@
 # glowing-octo-spoon
-A sample node-angular app
+A sandbox node-angular app
